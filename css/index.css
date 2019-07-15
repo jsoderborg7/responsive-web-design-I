@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5 {
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 /* This is the main Great Ideas page */
 .container {
-	width: 900px;
+	width: 800px;
 	margin: auto;
 }
 
@@ -92,9 +92,10 @@ header nav a {
 	display: flex;
   justify-content: space-around;
   border-bottom: 1px solid black;
- margin-left: 45px;
  margin-top: 25px;
- margin-bottom: 110px;
+ margin-bottom: 50px;
+ padding-bottom: 50px;
+ width: 100%;
 }
 
 .cta h1 {
